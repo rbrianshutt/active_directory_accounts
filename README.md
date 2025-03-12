@@ -1,4 +1,11 @@
-<h1>Unlocking Accounts, Resetting Passwords, Enabling and Disabling Accounts, Observing Logs</h1>
+<h1>Group Policy and Managing Accounts</h1>
+
+<h2>Overview:</h2>
+
+- <b>Account Lockout Policy – Configure Group Policy to lock out accounts after failed attempts.</b> 
+- <b>Enable and Disable Accounts – Test account login behavior after enabling/disabling accounts.</b>
+- <b>Resetting Passwords</b>
+- <b>Log Monitoring – Observe authentication and security logs.</b>
 
 <h2>Configure Group Policy to lockout account</h2>
 
