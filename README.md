@@ -44,7 +44,7 @@ View our current settings now in place  <br/>
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/14.6%20policy%20settings.PNG)
 <br />
 
-Log in the CLIENT-1 as jane_admin update policy for users <br/>
+Log in the CLIENT-1 as jane_admin and we will update the policy for users <br/>
 
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/14.7%20login%20client1%20as%20janeadmin.PNG)
 <br />
